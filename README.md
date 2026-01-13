@@ -2,6 +2,10 @@
 
 A modern, efficient task management application built with React and Vite. This application allows users to organize their daily tasks with ease, offering features like task creation, filtering, and pagination.
 
+## 📸 Application Output
+
+![Task Management Output](public/task_management_output.png)
+
 ---
 
 ## ✨ Features
